@@ -13,8 +13,8 @@ The **Formula Sheet Creator** application helps students create organized and co
 ## Author
 This project was created by **Naor Ladani**.
 
-## License
-© Naor Ladani, [2025]. All rights reserved.
+
+
 
 
 ## Features
