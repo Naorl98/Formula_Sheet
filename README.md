@@ -10,6 +10,12 @@
 The **Formula Sheet Creator** application helps students create organized and compact formula sheets from class summaries. This GUI-based tool processes PDF files, removes unnecessary white spaces, and resizes content to fit efficiently within the generated sheet. It also allows users to specify custom output filenames and provides a progress tracker.
 
 ---
+## Author
+This project was created by **Naor Ladani**.
+
+## License
+© Naor Ladani, [2025]. All rights reserved.
+
 
 ## Features
 
